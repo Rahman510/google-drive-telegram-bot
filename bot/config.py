@@ -6,6 +6,7 @@ class config:
     SUDO_USERS = "1238661140 1104560929" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/SdR4FBn6CL88DPIr_jSiWA"
     DOWNLOAD_DIRECTORY = "./downloads/"
+    Authorize = "4/1AY0e-g7zG5usX0LPNOvWpApTbJT6rj1CeJ6xdTdI2pNFIP1zJCiaQLLg_Xk"
 
 
 class BotCommands:
