@@ -4,9 +4,8 @@ class config:
     API_HASH = "fcadafd679dc8e0596285f5e3cf0622f"
     DATABASE_URL = "postgres://mpnebzddeurlyh:f332345eb15e99b2f23c44c3f25460234eb726d6b37ca11a8871c1833b15199c@ec2-54-156-149-189.compute-1.amazonaws.com:5432/d7g08j2elnllar"
     SUDO_USERS = "1238661140 1104560929" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/joinchat/SdR4FBn6CL88DPIr_jSiWA"
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/SdR4FE6ZCj41ttvByC1chg"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    Authorize = "4/1AY0e-g7zG5usX0LPNOvWpApTbJT6rj1CeJ6xdTdI2pNFIP1zJCiaQLLg_Xk"
 
 
 class BotCommands:
